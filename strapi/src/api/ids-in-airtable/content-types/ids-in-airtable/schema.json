@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ids_in_airtables",
+  "info": {
+    "singularName": "ids-in-airtable",
+    "pluralName": "ids-in-airtables",
+    "displayName": "ids-In-Airtable"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    },
+    "airtable_id": {
+      "type": "string"
+    }
+  }
+}
